@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Example Restaurant",
+    "category": "Food",
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "address": "123 Main St, San Diego",
+    "phoneNumber": "6195551234",
+    "expiresAt": "2026-12-31T00:00:00Z"
+  }
+]
