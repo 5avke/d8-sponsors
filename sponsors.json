@@ -8,4 +8,11 @@
     "phoneNumber": "6195551234",
     "expiresAt": "2026-12-31T00:00:00Z"
   }
+  { "name": "Test Sponsor Cafe", 
+    "category": "Food", 
+    "latitude": 37.3346, 
+    "longitude": -122.0090,
+    "address": "Test Address",
+    "phoneNumber": "5555551234",
+    "expiresAt": "2026-12-31T00:00:00Z" }
 ]
